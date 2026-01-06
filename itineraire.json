@@ -1,0 +1,597 @@
+{
+  "pays": "Pays-Bas",
+  "drapeau": "🇳🇱",
+  "symbole": "🌷",
+  "titre": "Évasion Relaxante aux Pays-Bas : Tulipes, Canaux et Douceur de Vivre",
+  "budget_total": "Environ 4400 €/personne",
+  "duree": "18 jours",
+  "temps_vol": "Environ 3h30 (dont 1h05 de vol) depuis Vier, Allemagne",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée à Amsterdam et première immersion",
+      "legende": "Après un trajet combinant route et vol, installez-vous confortablement à Amsterdam. Profitez d'une première balade douce le long des canaux pour vous imprégner de l'atmosphère unique de la ville, sans précipitation.",
+      "lieu": "Amsterdam",
+      "activites": [
+        "<strong>🛬 Arrivée à Amsterdam</strong>: Voyage depuis Vier, Allemagne (route + vol FRA-AMS).",
+        "<strong>🛏️ Installation à l'hôtel</strong>: Prenez vos quartiers dans le centre d'Amsterdam.",
+        "<strong>🚶‍♂️ Balade relaxante le long des canaux</strong>: Découvrez les célèbres canaux et l'architecture typique."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le trajet depuis Vier, Allemagne, inclut une portion en voiture jusqu'à l'aéroport de Francfort (environ 2h30) avant le vol pour Amsterdam. Prévoyez une marge confortable."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🚲",
+      "titre": "Charme du Jordaan et Vondelpark",
+      "legende": "Explorez le quartier pittoresque du Jordaan avec ses ruelles étroites et ses \"hofjes\" cachés. L'après-midi, détendez-vous dans le verdoyant Vondelpark, un véritable poumon vert au cœur de la ville.",
+      "lieu": "Amsterdam",
+      "activites": [
+        "<strong>🚶‍♀️ Découverte du quartier du Jordaan</strong>: Flânez dans ce quartier historique, connu pour ses \"hofjes\" (cours intérieures) et ses boutiques d'artisans.",
+        "<strong>🌳 Détente au Vondelpark</strong>: Profitez d'une promenade ou d'un pique-nique dans le plus grand parc d'Amsterdam, idéal pour se ressourcer.",
+        "<strong>🚤 Croisière sur les canaux</strong>: Admirez la ville sous un autre angle lors d'une croisière paisible."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Jordaan, Amsterdam",
+          "categorie": "Quartier",
+          "coords": { "lat": 52.3759, "lng": 4.8837 }
+        },
+        {
+          "nom_recherche": "Vondelpark, Amsterdam",
+          "categorie": "Parc",
+          "coords": { "lat": 52.3584, "lng": 4.8687 }
+        },
+        {
+          "nom_recherche": "Canal Cruise Amsterdam",
+          "categorie": "Activité",
+          "coords": { "lat": 52.3730, "lng": 4.8922 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🚲",
+          "titre": "Astuce locale",
+          "texte": "Louer un vélo est une excellente façon de découvrir Amsterdam, mais soyez vigilant, les cyclistes sont nombreux et rapides !"
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🎨",
+      "titre": "Culture douce et histoire",
+      "legende": "Plongez dans l'art néerlandais au Rijksmuseum, en choisissant quelques œuvres majeures pour ne pas se fatiguer. L'après-midi, une visite émouvante de la Maison d'Anne Frank offre un moment de réflexion historique.",
+      "lieu": "Amsterdam",
+      "activites": [
+        "<strong>🖼️ Visite du Rijksmuseum</strong>: Admirez \"La Ronde de Nuit\" de Rembrandt et d'autres chefs-d'œuvre, en privilégiant une sélection pour une visite relaxante.",
+        "<strong>📖 Maison d'Anne Frank</strong>: Un moment poignant pour comprendre l'histoire de la jeune fille et de la Seconde Guerre mondiale. (Réservation indispensable très à l'avance).",
+        "<strong>🚶‍♂️ Exploration du quartier des 9 Rues</strong>: Un ensemble de rues charmantes avec des boutiques uniques et des cafés."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Rijksmuseum, Amsterdam",
+          "categorie": "Musée",
+          "coords": { "lat": 52.3592, "lng": 4.8852 }
+        },
+        {
+          "nom_recherche": "Anne Frank House, Amsterdam",
+          "categorie": "Musée",
+          "coords": { "lat": 52.3752, "lng": 4.8839 }
+        },
+        {
+          "nom_recherche": "De Negen Straatjes, Amsterdam",
+          "categorie": "Quartier commerçant",
+          "coords": { "lat": 52.3688, "lng": 4.8857 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil",
+          "texte": "Pour le Rijksmuseum, téléchargez l'application officielle pour une visite guidée des points forts, évitant ainsi la fatigue d'une exploration exhaustive."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🌷",
+      "titre": "Émerveillement floral à Keukenhof",
+      "legende": "Évadez-vous pour une journée féerique au parc floral de Keukenhof, où des millions de tulipes et autres fleurs printanières créent un spectacle inoubliable. Une balade douce et colorée vous attend.",
+      "lieu": "Lisse (près d'Amsterdam)",
+      "activites": [
+        "<strong>🚌 Excursion au Keukenhof</strong>: Découvrez les magnifiques jardins de tulipes et autres fleurs printanières, un véritable enchantement visuel.",
+        "<strong>🚶‍♀️ Balade dans les allées fleuries</strong>: Profitez de l'atmosphère paisible et des parfums enivrants.",
+        "<strong>📸 Séance photo florale</strong>: Immortalisez les paysages colorés et les créations artistiques."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Keukenhof, Lisse",
+          "categorie": "Jardin floral",
+          "coords": { "lat": 52.2701, "lng": 4.5463 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🌸",
+          "titre": "Période idéale",
+          "texte": "Keukenhof n'est ouvert que de mi-mars à mi-mai. Votre voyage en mai est parfait pour admirer les tulipes en pleine floraison !"
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": " windmills",
+      "titre": "Moulins et traditions à Zaanse Schans",
+      "legende": "Voyagez dans le temps à Zaanse Schans, un musée à ciel ouvert où moulins à vent, maisons en bois et ateliers traditionnels vous plongent dans l'histoire néerlandaise. Une journée paisible et instructive.",
+      "lieu": "Zaandam (près d'Amsterdam)",
+      "activites": [
+        "<strong>🚌 Visite de Zaanse Schans</strong>: Explorez ce village pittoresque avec ses moulins à vent emblématiques, ses maisons vertes et ses ateliers traditionnels.",
+        "<strong>🧀 Dégustation de fromage et fabrication de sabots</strong>: Assistez à des démonstrations artisanales et goûtez aux spécialités locales.",
+        "<strong>🚶‍♂️ Promenade le long de la rivière Zaan</strong>: Profitez des vues sur les moulins et la campagne environnante."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Zaanse Schans, Zaandam",
+          "categorie": "Musée à ciel ouvert",
+          "coords": { "lat": 52.4740, "lng": 4.8190 }
+        }
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "📸",
+          "titre": "Conseil photo",
+          "texte": "Les moulins de Zaanse Schans sont particulièrement photogéniques au lever ou au coucher du soleil, quand la lumière est douce."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🛶",
+      "titre": "La Venise du Nord : Giethoorn",
+      "legende": "Quittez l'agitation d'Amsterdam pour la sérénité de Giethoorn, le \"village sans routes\". Naviguez tranquillement sur ses canaux, admirez les fermes au toit de chaume et savourez une journée de pure détente.",
+      "lieu": "Giethoorn",
+      "activites": [
+        "<strong>🚆 Trajet vers Giethoorn</strong>: Voyage en train et bus vers ce village unique (environ 2h de transport).",
+        "<strong>🛏️ Installation et déjeuner</strong>: Prenez vos marques et savourez un repas local.",
+        "<strong>🛶 Balade en \"punters\" (bateau silencieux)</strong>: Explorez les canaux de Giethoorn, surnommée la \"Venise du Nord\", pour une expérience paisible et immersive."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Giethoorn, Overijssel",
+          "categorie": "Village",
+          "coords": { "lat": 52.7390, "lng": 6.0760 }
+        }
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "🤫",
+          "titre": "Tranquillité",
+          "texte": "Giethoorn est un lieu de paix. Respectez le calme des habitants en naviguant doucement et en évitant les bruits forts."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "🏡",
+      "titre": "Sérénité et charme rural à Giethoorn",
+      "legende": "Poursuivez votre exploration de Giethoorn à pied ou à vélo, découvrant ses ponts en bois et ses jardins fleuris. Une journée dédiée à la contemplation et à la douceur de vivre rurale néerlandaise.",
+      "lieu": "Giethoorn",
+      "activites": [
+        "<strong>🚶‍♀️ Promenade à pied ou à vélo</strong>: Découvrez les recoins cachés de Giethoorn, ses ponts et ses fermes traditionnelles.",
+        "<strong>☕ Pause café au bord de l'eau</strong>: Profitez d'un moment de détente dans l'un des charmants cafés du village.",
+        "<strong>🖼️ Visite d'un musée local</strong>: Apprenez-en plus sur l'histoire et les traditions de Giethoorn (ex: Museum \"'t Olde Maat Uus\")."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Museum 't Olde Maat Uus, Giethoorn",
+          "categorie": "Musée",
+          "coords": { "lat": 52.7397, "lng": 6.0775 }
+        }
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "☀️",
+          "titre": "Météo",
+          "texte": "En mai-juin, le temps est généralement doux. Prévoyez des vêtements confortables et une petite veste pour les soirées."
+        }
+      ]
+    },
+    {
+      "jour": 8,
+      "symbole": "🏰",
+      "titre": "Utrecht, ville médiévale et canaux",
+      "legende": "Direction Utrecht, une ville universitaire dynamique au charme médiéval. Flânez le long de ses canaux uniques à deux niveaux et admirez la majestueuse Tour du Dôme, symbole de la ville.",
+      "lieu": "Utrecht",
+      "activites": [
+        "<strong>🚆 Trajet vers Utrecht</strong>: Voyage en train depuis Giethoorn (environ 1h30-2h).",
+        "<strong>🛏️ Installation à l'hôtel</strong>: Prenez vos quartiers dans le centre d'Utrecht.",
+        "<strong>🚶‍♂️ Découverte des canaux d'Utrecht</strong>: Explorez les quais inférieurs uniques, bordés de cafés et de restaurants."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Utrecht Centraal Station",
+          "categorie": "Gare",
+          "coords": { "lat": 52.0907, "lng": 5.1009 }
+        },
+        {
+          "nom_recherche": "Oudegracht, Utrecht",
+          "categorie": "Canal",
+          "coords": { "lat": 52.0903, "lng": 5.1190 }
+        }
+      ],
+      "illustration": "jour8.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Particularité",
+          "texte": "Les canaux d'Utrecht sont uniques avec leurs quais inférieurs où se trouvent des caves transformées en restaurants et terrasses."
+        }
+      ]
+    },
+    {
+      "jour": 9,
+      "symbole": "⛪",
+      "titre": "Hauteurs d'Utrecht et jardins",
+      "legende": "Montez à la Tour du Dôme pour une vue panoramique sur Utrecht (si l'effort est gérable). L'après-midi, détendez-vous dans les jardins du couvent de Saint-Servais, un havre de paix.",
+      "lieu": "Utrecht",
+      "activites": [
+        "<strong>⛪ Ascension de la Tour du Dôme</strong>: Profitez d'une vue imprenable sur la ville (environ 465 marches, à votre rythme).",
+        "<strong>🌳 Détente aux jardins du couvent de Saint-Servais</strong>: Un espace vert paisible pour se reposer et admirer l'architecture.",
+        "<strong>🛍️ Flânerie dans le centre historique</strong>: Découvrez les petites rues commerçantes et les places animées."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Domtoren, Utrecht",
+          "categorie": "Monument",
+          "coords": { "lat": 52.0907, "lng": 5.1213 }
+        },
+        {
+          "nom_recherche": "Pandhof Domkerk, Utrecht",
+          "categorie": "Jardin",
+          "coords": { "lat": 52.0902, "lng": 5.1210 }
+        }
+      ],
+      "illustration": "jour9.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "Rythme",
+          "texte": "L'ascension de la Tour du Dôme est guidée et se fait par paliers, permettant des pauses. N'hésitez pas à demander un rythme adapté."
+        }
+      ]
+    },
+    {
+      "jour": 10,
+      "symbole": "🏛️",
+      "titre": "La Haye, ville royale et de la paix",
+      "legende": "Direction La Haye, la capitale politique des Pays-Bas. Visitez le Palais de la Paix, symbole de la justice internationale, et admirez la célèbre \"Fille à la perle\" au Mauritshuis.",
+      "lieu": "La Haye",
+      "activites": [
+        "<strong>🚆 Trajet vers La Haye</strong>: Voyage en train depuis Utrecht (environ 30 min).",
+        "<strong>🛏️ Installation à l'hôtel</strong>: Prenez vos quartiers dans la ville.",
+        "<strong>🏛️ Visite du Palais de la Paix</strong>: Découvrez ce bâtiment emblématique de la justice internationale (visite du centre des visiteurs).",
+        "<strong>🖼️ Mauritshuis</strong>: Admirez des chefs-d'œuvre de l'âge d'or néerlandais, dont la \"Fille à la perle\" de Vermeer."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Vredespaleis, Den Haag",
+          "categorie": "Monument",
+          "coords": { "lat": 52.0874, "lng": 4.2959 }
+        },
+        {
+          "nom_recherche": "Mauritshuis, Den Haag",
+          "categorie": "Musée",
+          "coords": { "lat": 52.0792, "lng": 4.3120 }
+        }
+      ],
+      "illustration": "jour10.jpg",
+      "encarts": [
+        {
+          "symbole": "👑",
+          "titre": "Ville royale",
+          "texte": "La Haye est le siège du gouvernement néerlandais et la résidence de la famille royale. Vous pourriez apercevoir des palais royaux en vous promenant."
+        }
+      ]
+    },
+    {
+      "jour": 11,
+      "symbole": "🏖️",
+      "titre": "Air marin à Scheveningen",
+      "legende": "Évadez-vous sur la côte à Scheveningen, la station balnéaire de La Haye. Profitez d'une longue balade sur la plage, respirez l'air marin et détendez-vous au bord de la mer du Nord.",
+      "lieu": "Scheveningen (près de La Haye)",
+      "activites": [
+        "<strong>🚌 Excursion à Scheveningen</strong>: Prenez le tram ou le bus depuis La Haye pour rejoindre la côte.",
+        "<strong>🏖️ Balade sur la plage et la jetée</strong>: Profitez de l'air frais de la mer du Nord et des vues panoramiques.",
+        "<strong>🍽️ Déjeuner de fruits de mer</strong>: Savourez des spécialités locales dans l'un des nombreux restaurants de plage."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Scheveningen Beach, Den Haag",
+          "categorie": "Plage",
+          "coords": { "lat": 52.1136, "lng": 4.2789 }
+        },
+        {
+          "nom_recherche": "Scheveningen Pier, Den Haag",
+          "categorie": "Jetée",
+          "coords": { "lat": 52.1200, "lng": 4.2790 }
+        }
+      ],
+      "illustration": "jour11.jpg",
+      "encarts": [
+        {
+          "symbole": "🌬️",
+          "titre": "Vêtements",
+          "texte": "Même par beau temps, le vent peut être frais sur la côte. Prévoyez une veste coupe-vent."
+        }
+      ]
+    },
+    {
+      "jour": 12,
+      "symbole": "🏙️",
+      "titre": "Rotterdam, architecture moderne",
+      "legende": "Découvrez Rotterdam, une ville résolument moderne et audacieuse, reconstruite après la guerre. Admirez son architecture innovante, ses gratte-ciel et son célèbre Markthal, un marché couvert unique.",
+      "lieu": "Rotterdam",
+      "activites": [
+        "<strong>🚆 Trajet vers Rotterdam</strong>: Voyage en train depuis La Haye (environ 20 min).",
+        "<strong>🛏️ Installation à l'hôtel</strong>: Prenez vos quartiers dans cette ville dynamique.",
+        "<strong>🏙️ Découverte du Markthal</strong>: Explorez ce marché couvert spectaculaire, un chef-d'œuvre architectural et culinaire.",
+        "<strong> cubes</strong>: Admirez les célèbres maisons cubiques de Piet Blom, une architecture surprenante."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Markthal, Rotterdam",
+          "categorie": "Marché couvert",
+          "coords": { "lat": 51.9216, "lng": 4.4891 }
+        },
+        {
+          "nom_recherche": "Kubuswoningen, Rotterdam",
+          "categorie": "Architecture",
+          "coords": { "lat": 51.9217, "lng": 4.4890 }
+        }
+      ],
+      "illustration": "jour12.jpg",
+      "encarts": [
+        {
+          "symbole": "🏗️",
+          "titre": "Renaissance",
+          "texte": "Rotterdam a été presque entièrement détruite pendant la Seconde Guerre mondiale, ce qui a permis une reconstruction audacieuse et moderne, faisant d'elle une vitrine architecturale."
+        }
+      ]
+    },
+    {
+      "jour": 13,
+      "symbole": "🚢",
+      "titre": "Port de Rotterdam et croisière fluviale",
+      "legende": "Explorez le plus grand port d'Europe lors d'une croisière relaxante. L'après-midi, flânez dans le quartier historique de Delfshaven, l'un des rares épargnés par les bombardements.",
+      "lieu": "Rotterdam",
+      "activites": [
+        "<strong>🚢 Croisière portuaire Spido</strong>: Découvrez l'immensité du port de Rotterdam et ses activités intenses depuis l'eau.",
+        "<strong>🚶‍♂️ Balade à Delfshaven</strong>: Explorez ce quartier historique préservé, avec ses canaux et ses bâtiments anciens.",
+        "<strong>🌉 Pont Érasme et Witte Huis</strong>: Admirez ces icônes architecturales de Rotterdam."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Spido, Rotterdam",
+          "categorie": "Croisière",
+          "coords": { "lat": 51.9138, "lng": 4.4800 }
+        },
+        {
+          "nom_recherche": "Delfshaven, Rotterdam",
+          "categorie": "Quartier",
+          "coords": { "lat": 51.9080, "lng": 4.4400 }
+        }
+      ],
+      "illustration": "jour13.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Le saviez-vous ?",
+          "texte": "Le port de Rotterdam est le plus grand d'Europe et l'un des plus importants au monde, s'étendant sur plus de 40 kilomètres."
+        }
+      ]
+    },
+    {
+      "jour": 14,
+      "symbole": "♨️",
+      "titre": "Maastricht et détente thermale",
+      "legende": "Cap sur Maastricht, la ville la plus méridionale des Pays-Bas, réputée pour son ambiance chaleureuse. L'après-midi, offrez-vous une parenthèse de bien-être aux thermes de Thermae 2000 à Valkenburg.",
+      "lieu": "Maastricht / Valkenburg",
+      "activites": [
+        "<strong>🚆 Trajet vers Maastricht</strong>: Voyage en train depuis Rotterdam (environ 2h30).",
+        "<strong>🛏️ Installation à l'hôtel</strong>: Prenez vos quartiers à Maastricht ou Valkenburg.",
+        "<strong>♨️ Détente aux Thermae 2000 (Valkenburg)</strong>: Profitez des sources chaudes et des installations de bien-être pour une relaxation profonde."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Maastricht Centraal Station",
+          "categorie": "Gare",
+          "coords": { "lat": 50.8484, "lng": 5.6946 }
+        },
+        {
+          "nom_recherche": "Thermae 2000, Valkenburg",
+          "categorie": "Spa",
+          "coords": { "lat": 50.8660, "lng": 5.8270 }
+        }
+      ],
+      "illustration": "jour14.jpg",
+      "encarts": [
+        {
+          "symbole": "🧖‍♀️",
+          "titre": "Bien-être",
+          "texte": "Thermae 2000 propose différentes zones, dont certaines sont \"textile-free\" (nudistes). Renseignez-vous sur les horaires si vous avez une préférence."
+        }
+      ]
+    },
+    {
+      "jour": 15,
+      "symbole": "⛪",
+      "titre": "Charme de Maastricht et grottes",
+      "legende": "Explorez le centre historique de Maastricht, ses places animées et ses églises impressionnantes. L'après-midi, découvrez les mystérieuses grottes de Valkenburg, une activité rafraîchissante et intrigante.",
+      "lieu": "Maastricht / Valkenburg",
+      "activites": [
+        "<strong>🚶‍♂️ Découverte du Vrijthof et de la Basilique Saint-Servais (Maastricht)</strong>: Flânez sur la place principale et visitez cette église romane emblématique.",
+        "<strong>📚 Librairie \"Boekhandel Dominicanen\"</strong>: Visitez cette librairie unique installée dans une ancienne église dominicaine.",
+        "<strong>🦇 Visite des grottes de Valkenburg</strong>: Explorez les galeries souterraines, anciennes carrières de marne, pour une expérience fraîche et historique."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Vrijthof, Maastricht",
+          "categorie": "Place",
+          "coords": { "lat": 50.8495, "lng": 5.6900 }
+        },
+        {
+          "nom_recherche": "Boekhandel Dominicanen, Maastricht",
+          "categorie": "Librairie",
+          "coords": { "lat": 50.8496, "lng": 5.6912 }
+        },
+        {
+          "nom_recherche": "Gemeentegrot Valkenburg",
+          "categorie": "Grotte",
+          "coords": { "lat": 50.8650, "lng": 5.8280 }
+        }
+      ],
+      "illustration": "jour15.jpg",
+      "encarts": [
+        {
+          "symbole": "🌡️",
+          "titre": "Température",
+          "texte": "La température dans les grottes est constante (environ 10-12°C). Prévoyez une petite laine même en été."
+        }
+      ]
+    },
+    {
+      "jour": 16,
+      "symbole": "🌳",
+      "titre": "Nature et châteaux du Limbourg",
+      "legende": "Profitez d'une matinée paisible dans la campagne vallonnée du Limbourg, unique aux Pays-Bas. L'après-midi, visitez un château local ou faites une dernière balade relaxante avant de remonter vers le nord.",
+      "lieu": "Limbourg / Retour vers le centre",
+      "activites": [
+        "<strong>🚶‍♀️ Balade dans la campagne du Limbourg</strong>: Découvrez les paysages vallonnés et verdoyants, très différents du reste des Pays-Bas.",
+        "<strong>🏰 Visite du Château de Hoensbroek (optionnel)</strong>: Un des plus grands châteaux médiévaux des Pays-Bas, pour une touche d'histoire.",
+        "<strong>🚆 Début du trajet retour vers Amsterdam</strong>: Prenez un train en fin d'après-midi pour réduire le temps de transport le lendemain."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Kasteel Hoensbroek, Hoensbroek",
+          "categorie": "Château",
+          "coords": { "lat": 50.9120, "lng": 5.9400 }
+        }
+      ],
+      "illustration": "jour16.jpg",
+      "encarts": [
+        {
+          "symbole": "🗺️",
+          "titre": "Logistique",
+          "texte": "Le trajet de Maastricht à Amsterdam est long (environ 2h30). Il est judicieux de le couper en deux ou de le faire en une seule fois pour le jour 17."
+        }
+      ]
+    },
+    {
+      "jour": 17,
+      "symbole": "🛍️",
+      "titre": "Retour à Amsterdam et derniers souvenirs",
+      "legende": "Retournez à Amsterdam pour une dernière journée de détente. Profitez-en pour faire quelques achats de souvenirs, revisiter un quartier coup de cœur ou simplement vous imprégner une dernière fois de l'ambiance néerlandaise.",
+      "lieu": "Amsterdam",
+      "activites": [
+        "<strong>🚆 Trajet vers Amsterdam</strong>: Finalisez votre retour vers la capitale (si non fait la veille).",
+        "<strong>🛏️ Installation à l'hôtel</strong>: Reprenez vos quartiers pour la dernière nuit.",
+        "<strong>🛍️ Achats de souvenirs et flânerie</strong>: Profitez des boutiques pour ramener un petit bout des Pays-Bas.",
+        "<strong>🍽️ Dîner d'adieu</strong>: Savourez un dernier repas typiquement néerlandais ou international."
+      ],
+      "illustration": "jour17.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Idées souvenirs",
+          "texte": "Fromage, stroopwafels, tulipes en bois, ou des objets décoratifs inspirés des maisons de canal sont de bons souvenirs."
+        }
+      ]
+    },
+    {
+      "jour": 18,
+      "symbole": "🛫",
+      "titre": "Départ des Pays-Bas",
+      "legende": "C'est le moment de dire au revoir aux Pays-Bas. Profitez d'un dernier petit-déjeuner avant de vous rendre à l'aéroport d'Amsterdam pour votre vol retour, la tête pleine de souvenirs relaxants.",
+      "lieu": "Amsterdam",
+      "activites": [
+        "<strong>☕ Dernier petit-déjeuner néerlandais</strong>: Savourez un \"ontbijt\" typique.",
+        "<strong>🛫 Transfert à l'aéroport d'Amsterdam (AMS)</strong>: Prévoyez suffisamment de temps pour le trajet et les formalités.",
+        "<strong>✈️ Vol retour vers Francfort (FRA)</strong>: Fin de votre voyage."
+      ],
+      "illustration": "jour18.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Conseil aéroport",
+          "texte": "L'aéroport de Schiphol (AMS) est grand. Arrivez au moins 2-3 heures avant votre vol, surtout en période de forte affluence."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "227 €/personne (A/R FRA-AMS)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 450 €/personne (trains intercités, trams, bus)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 1080 €/personne (50-70 €/jour pour 18 jours, budget moyen)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 2250 €/personne (125 €/nuit pour 18 nuits, hôtel 3* en moyenne)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 375 €/personne (musées, croisières, Keukenhof, Thermae 2000, etc.)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai à Juin", "symbole": "🌷" },
+    { "titre": "Septembre", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "En mai-juin, les températures varient entre 10 et 20°C. Prévoir des couches de vêtements, un imperméable léger et de bonnes chaussures de marche.", "symbole": "☀️" },
+    { "titre": "La monnaie est l'Euro (€). Les cartes de crédit sont largement acceptées, mais un peu de liquide peut être utile pour les petits commerces ou marchés.", "symbole": "💳" },
+    { "titre": "Le réseau de transports en commun (trains NS, trams, bus) est excellent et très efficace. Une carte OV-chipkaart anonyme peut être pratique.", "symbole": "🚆" },
+    { "titre": "Le néerlandais est la langue officielle, mais l'anglais est très largement parlé, surtout dans les zones touristiques.", "symbole": "🗣️" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "💡",
+      "titre": "Le saviez-vous ?",
+      "texte": "Les Pays-Bas comptent plus de vélos que d'habitants ! C'est le moyen de transport roi, avec des infrastructures cyclables impressionnantes."
+    },
+    {
+      "symbole": "🙃",
+      "titre": "Insolite",
+      "texte": "Beaucoup de maisons néerlandaises sont légèrement penchées. Ce n'est pas un défaut de construction, mais souvent dû au sol mou et aux fondations sur pilotis qui s'enfoncent inégalement avec le temps."
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🧇",
+      "titre": "Stroopwafels",
+      "description": "Deux fines gaufres au sirop de caramel, délicieuses chaudes avec un café. Un classique incontournable !"
+    },
+    {
+      "symbole": "🐟",
+      "titre": "Haring (Hareng cru)",
+      "description": "Servi avec des oignons et des cornichons, ce poisson cru est une spécialité audacieuse et rafraîchissante, souvent dégustée sur le pouce."
+    },
+    {
+      "symbole": "🥞",
+      "titre": "Poffertjes",
+      "description": "De petites crêpes épaisses et moelleuses, servies chaudes avec du beurre fondu et du sucre glace. Un délice pour les gourmands."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/FRA-AMS/2026-05-15/2026-06-02", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Holland.com (Office du Tourisme)", "url": "https://www.holland.com/global/tourism.htm", "symbole": "📘" },
+    { "legende": "Horaires des transports", "titre": "NS (Chemins de fer néerlandais)", "url": "https://www.ns.nl/en", "symbole": "🚆" },
+    { "legende": "Météo", "titre": "Buienradar (Météo Pays-Bas)", "url": "https://www.buienradar.nl/", "symbole": "🌤️" }
+  ]
+}
